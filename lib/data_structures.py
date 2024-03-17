@@ -1,6 +1,3 @@
-from audioop import avg
-
-
 spicy_foods = [
     {
         "name": "Green Curry",
